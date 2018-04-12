@@ -1,0 +1,218 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .idea\
+* .idea\misc.xml
+* .idea\workspace.xml
+* app\
+* app\build.gradle
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\dongnaoedu\
+* app\src\main\java\com\dongnaoedu\jasonpushstream\
+* app\src\main\java\com\dongnaoedu\jasonpushstream\FFmpegUtils.java
+* app\src\main\java\com\dongnaoedu\jasonpushstream\MainActivity.java
+* app\src\main\jniLibs\
+* app\src\main\jniLibs\armeabi\
+* app\src\main\jniLibs\armeabi\libJasonPushStream.so
+* app\src\main\jniLibs\armeabi\libavcodec-56.so
+* app\src\main\jniLibs\armeabi\libavdevice-56.so
+* app\src\main\jniLibs\armeabi\libavfilter-5.so
+* app\src\main\jniLibs\armeabi\libavformat-56.so
+* app\src\main\jniLibs\armeabi\libavutil-54.so
+* app\src\main\jniLibs\armeabi\libpostproc-53.so
+* app\src\main\jniLibs\armeabi\libswresample-1.so
+* app\src\main\jniLibs\armeabi\libswscale-3.so
+* app\src\main\jni\
+* app\src\main\jni\Android.mk
+* app\src\main\jni\JasonPushStream.c
+* app\src\main\jni\JasonPushStream_bak.c
+* app\src\main\jni\com_dongnaoedu_jasonpushstream_FFmpegUtils.h
+* app\src\main\jni\include\
+* app\src\main\jni\include\libavcodec\
+* app\src\main\jni\include\libavcodec\avcodec.h
+* app\src\main\jni\include\libavcodec\avfft.h
+* app\src\main\jni\include\libavcodec\dv_profile.h
+* app\src\main\jni\include\libavcodec\dxva2.h
+* app\src\main\jni\include\libavcodec\old_codec_ids.h
+* app\src\main\jni\include\libavcodec\qsv.h
+* app\src\main\jni\include\libavcodec\vaapi.h
+* app\src\main\jni\include\libavcodec\vda.h
+* app\src\main\jni\include\libavcodec\vdpau.h
+* app\src\main\jni\include\libavcodec\version.h
+* app\src\main\jni\include\libavcodec\vorbis_parser.h
+* app\src\main\jni\include\libavcodec\xvmc.h
+* app\src\main\jni\include\libavdevice\
+* app\src\main\jni\include\libavdevice\avdevice.h
+* app\src\main\jni\include\libavdevice\version.h
+* app\src\main\jni\include\libavfilter\
+* app\src\main\jni\include\libavfilter\asrc_abuffer.h
+* app\src\main\jni\include\libavfilter\avcodec.h
+* app\src\main\jni\include\libavfilter\avfilter.h
+* app\src\main\jni\include\libavfilter\avfiltergraph.h
+* app\src\main\jni\include\libavfilter\buffersink.h
+* app\src\main\jni\include\libavfilter\buffersrc.h
+* app\src\main\jni\include\libavfilter\version.h
+* app\src\main\jni\include\libavformat\
+* app\src\main\jni\include\libavformat\avformat.h
+* app\src\main\jni\include\libavformat\avio.h
+* app\src\main\jni\include\libavformat\version.h
+* app\src\main\jni\include\libavutil\
+* app\src\main\jni\include\libavutil\adler32.h
+* app\src\main\jni\include\libavutil\aes.h
+* app\src\main\jni\include\libavutil\attributes.h
+* app\src\main\jni\include\libavutil\audio_fifo.h
+* app\src\main\jni\include\libavutil\audioconvert.h
+* app\src\main\jni\include\libavutil\avassert.h
+* app\src\main\jni\include\libavutil\avconfig.h
+* app\src\main\jni\include\libavutil\avstring.h
+* app\src\main\jni\include\libavutil\avutil.h
+* app\src\main\jni\include\libavutil\base64.h
+* app\src\main\jni\include\libavutil\blowfish.h
+* app\src\main\jni\include\libavutil\bprint.h
+* app\src\main\jni\include\libavutil\bswap.h
+* app\src\main\jni\include\libavutil\buffer.h
+* app\src\main\jni\include\libavutil\camellia.h
+* app\src\main\jni\include\libavutil\cast5.h
+* app\src\main\jni\include\libavutil\channel_layout.h
+* app\src\main\jni\include\libavutil\common.h
+* app\src\main\jni\include\libavutil\cpu.h
+* app\src\main\jni\include\libavutil\crc.h
+* app\src\main\jni\include\libavutil\dict.h
+* app\src\main\jni\include\libavutil\display.h
+* app\src\main\jni\include\libavutil\downmix_info.h
+* app\src\main\jni\include\libavutil\error.h
+* app\src\main\jni\include\libavutil\eval.h
+* app\src\main\jni\include\libavutil\ffversion.h
+* app\src\main\jni\include\libavutil\fifo.h
+* app\src\main\jni\include\libavutil\file.h
+* app\src\main\jni\include\libavutil\frame.h
+* app\src\main\jni\include\libavutil\hash.h
+* app\src\main\jni\include\libavutil\hmac.h
+* app\src\main\jni\include\libavutil\imgutils.h
+* app\src\main\jni\include\libavutil\intfloat.h
+* app\src\main\jni\include\libavutil\intreadwrite.h
+* app\src\main\jni\include\libavutil\lfg.h
+* app\src\main\jni\include\libavutil\log.h
+* app\src\main\jni\include\libavutil\lzo.h
+* app\src\main\jni\include\libavutil\macros.h
+* app\src\main\jni\include\libavutil\mathematics.h
+* app\src\main\jni\include\libavutil\md5.h
+* app\src\main\jni\include\libavutil\mem.h
+* app\src\main\jni\include\libavutil\motion_vector.h
+* app\src\main\jni\include\libavutil\murmur3.h
+* app\src\main\jni\include\libavutil\old_pix_fmts.h
+* app\src\main\jni\include\libavutil\opt.h
+* app\src\main\jni\include\libavutil\parseutils.h
+* app\src\main\jni\include\libavutil\pixdesc.h
+* app\src\main\jni\include\libavutil\pixelutils.h
+* app\src\main\jni\include\libavutil\pixfmt.h
+* app\src\main\jni\include\libavutil\random_seed.h
+* app\src\main\jni\include\libavutil\rational.h
+* app\src\main\jni\include\libavutil\replaygain.h
+* app\src\main\jni\include\libavutil\ripemd.h
+* app\src\main\jni\include\libavutil\samplefmt.h
+* app\src\main\jni\include\libavutil\sha.h
+* app\src\main\jni\include\libavutil\sha512.h
+* app\src\main\jni\include\libavutil\stereo3d.h
+* app\src\main\jni\include\libavutil\threadmessage.h
+* app\src\main\jni\include\libavutil\time.h
+* app\src\main\jni\include\libavutil\timecode.h
+* app\src\main\jni\include\libavutil\timestamp.h
+* app\src\main\jni\include\libavutil\twofish.h
+* app\src\main\jni\include\libavutil\version.h
+* app\src\main\jni\include\libavutil\xtea.h
+* app\src\main\jni\include\libpostproc\
+* app\src\main\jni\include\libpostproc\postprocess.h
+* app\src\main\jni\include\libpostproc\version.h
+* app\src\main\jni\include\libswresample\
+* app\src\main\jni\include\libswresample\swresample.h
+* app\src\main\jni\include\libswresample\version.h
+* app\src\main\jni\include\libswscale\
+* app\src\main\jni\include\libswscale\swscale.h
+* app\src\main\jni\include\libswscale\version.h
+* app\src\main\jni\libavcodec-56.so
+* app\src\main\jni\libavdevice-56.so
+* app\src\main\jni\libavfilter-5.so
+* app\src\main\jni\libavformat-56.so
+* app\src\main\jni\libavutil-54.so
+* app\src\main\jni\libpostproc-53.so
+* app\src\main\jni\libswresample-1.so
+* app\src\main\jni\libswscale-3.so
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\main.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values-w820dp\
+* app\src\main\res\values-w820dp\dimens.xml
+* app\src\main\res\values\
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* jni\ => app\src\main\jni\
+* libs\armeabi\libavcodec-56.so => app\src\main\jniLibs\armeabi\libavcodec-56.so
+* libs\armeabi\libavdevice-56.so => app\src\main\jniLibs\armeabi\libavdevice-56.so
+* libs\armeabi\libavfilter-5.so => app\src\main\jniLibs\armeabi\libavfilter-5.so
+* libs\armeabi\libavformat-56.so => app\src\main\jniLibs\armeabi\libavformat-56.so
+* libs\armeabi\libavutil-54.so => app\src\main\jniLibs\armeabi\libavutil-54.so
+* libs\armeabi\libJasonPushStream.so => app\src\main\jniLibs\armeabi\libJasonPushStream.so
+* libs\armeabi\libpostproc-53.so => app\src\main\jniLibs\armeabi\libpostproc-53.so
+* libs\armeabi\libswresample-1.so => app\src\main\jniLibs\armeabi\libswresample-1.so
+* libs\armeabi\libswscale-3.so => app\src\main\jniLibs\armeabi\libswscale-3.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
